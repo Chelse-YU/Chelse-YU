@@ -74,12 +74,12 @@ A space for ideas, observations, storytelling, and audiovisual expression.
 
 Language notes, linguistic observations, and cross-language explorations.
 
-- Cantonese | 粤语
-- English | 英语
-- French | 法语
-- German | 德语
-- Italian | 意大利语
-- Spanish | 西班牙语
+- Cantonese
+- English
+- French
+- German
+- Italian
+- Spanish
 - Linguistics, Etymology & Language Comparisons
 
 ## 🧪 05. Notes & Experiments 
