@@ -1,6 +1,7 @@
 ## 𝗛𝗶 There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"/>
 
 My GitHub info:
+
 <img src="https://github-readme-stats.vercel.app/api?username=Jace-Yang&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
 
 
