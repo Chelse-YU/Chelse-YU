@@ -1,5 +1,5 @@
-## 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
-### 🌲 Introduction
+# 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+## 🌲 Introduction
 I'm **Chelse Yu**, also known as **一节芋头**.
 - 🇭🇰 **MSc Marketing Student** at HKU Business School, The University of Hong Kong.
 - 🇨🇳 **BBA**, majoring in Marketing and Communications with a minor in Economics, at The Chinese University of Hong Kong, Shenzhen.
@@ -9,7 +9,7 @@ I'm **Chelse Yu**, also known as **一节芋头**.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img
