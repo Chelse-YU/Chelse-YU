@@ -1,7 +1,6 @@
 ## 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
-
+### 🌲 Introduction
 I'm **Chelse Yu**, also known as **一节芋头**.
-
 - 🇭🇰 **MSc Marketing Student** at HKU Business School, The University of Hong Kong.
 - 🇨🇳 **BBA**, majoring in Marketing and Communications with a minor in Economics, at The Chinese University of Hong Kong, Shenzhen.
 - 🇨🇭 **Exchange Student** at HEC Lausanne, University of Lausanne, Switzerland.
@@ -30,15 +29,12 @@ I'm **Chelse Yu**, also known as **一节芋头**.
 
 ---
 
-### 💡 Chelse | Marketing Intelligence Lab
-
-
-### ✦ Marketing × Data Analytics × AI Applications
-
-🔎 **Explore** — Marketing research, consumer insights, and business analytics.
-📚 **Document** — Coursework, research projects, and practical experiments.
-💡 **Connect** — Consumer insights, analytical thinking, and business strategy.
-🤖 **Discover** — How data and AI can help us better understand and solve real-world business problems.
+### 📖 Chelse | Marketing Intelligence Lab
+#### ✦ Marketing × Data Analytics × AI Applications
+- 🔎 **Explore** — Marketing research, consumer insights, and business analytics.
+- 📚 **Document** — Coursework, research projects, and practical experiments.
+- 💡 **Connect** — Consumer insights, analytical thinking, and business strategy.
+- 🤖 **Discover** — How data and AI can help us better understand and solve real-world business problems.
 
 
 ---
