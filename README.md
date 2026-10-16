@@ -34,15 +34,7 @@ I'm **Chelse Yu**, also known as **一节芋头**.
 ### ✦ Marketing × Design × Languages × AI
 
 A personal space for thinking, creating, and learning across disciplines.
-
-- 🔎 **Research** — Marketing, consumer insights, business strategy, and data analytics.
-- 🎨 **Create** — Design, drawing, calligraphy, visual experiments, and creative projects.
-- ✍️ **Express** — Essays, personal observations, writing, and video projects.
-- 🌍 **Learn** — Cantonese, English, French, German, Italian, Spanish, and linguistics.
-- 🤖 **Experiment** — AI applications, coding, and new ways of connecting ideas.
-
 This repository documents my academic journey, creative practice, language learning, and independent explorations.
-
 I believe in connecting ideas across disciplines — using research to understand the world, design to express ideas, writing to make sense of experiences, and languages to discover new perspectives.
 
 ---
