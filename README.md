@@ -29,112 +29,72 @@ I'm **Chelse Yu**, also known as **一节芋头**.
 
 ---
 
+# 📖 Chelse | Knowledge & Creative Archive
 
-# 📖 Chelse | Marketing Intelligence Lab
+### ✦ Marketing × Design × Languages × AI
 
-### ✦ Marketing × Data Analytics × AI Applications
+A personal space for thinking, creating, and learning across disciplines.
 
-- 🔎 **Explore** — Marketing research, consumer insights, and business analytics.
-- 📚 **Document** — Coursework, research projects, and practical experiments.
-- 💡 **Connect** — Consumer insights, analytical thinking, and business strategy.
-- 🤖 **Discover** — How data and AI can help us understand and solve real-world business problems.
+- 🔎 **Research** — Marketing, consumer insights, business strategy, and data analytics.
+- 🎨 **Create** — Design, drawing, calligraphy, visual experiments, and creative projects.
+- ✍️ **Express** — Essays, personal observations, writing, and video projects.
+- 🌍 **Learn** — Cantonese, English, French, German, Italian, Spanish, and linguistics.
+- 🤖 **Experiment** — AI applications, coding, and new ways of connecting ideas.
 
----
+This repository documents my academic journey, creative practice, language learning, and independent explorations.
 
-## 📚 01. Academic Projects | 课程与学术项目
-
-A collection of coursework, research projects, and academic work from my undergraduate and postgraduate studies.
-
-### 🎯 Brand Strategy & Marketing | 品牌战略与营销
-
-- **[Winter Hiking Sunscreen Campaign](https://github.com/Chelse-YU/hku-brand-strategy-beneunder-winter-hiking)**
-  - Course: Brand Strategy
-  - Focus: Consumer insights, campaign strategy, digital engagement, and KPI design.
-  - Status: In progress
-
-### 📊 Consumer Insights & Business Analytics | 消费者洞察与商业分析
-
-- **Projects coming soon**
-  - Consumer behavior and consumer research
-  - Marketing analytics and data visualization
-  - Data-driven decision-making
-
-### 🧩 Business Research & Strategy | 商业研究与战略
-
-- **Projects coming soon**
-  - Industry and market research
-  - Business frameworks and case analysis
-  - Literature reviews and strategic analysis
+I believe in connecting ideas across disciplines — using research to understand the world, design to express ideas, writing to make sense of experiences, and languages to discover new perspectives.
 
 ---
 
-## 🏢 02. Corporate Learning | 企业公开课与商业案例
+## 📚 01. Marketing & Business 
 
-A learning archive of publicly available corporate courses, business cases, and industry insights.
+Academic projects, marketing research, business strategy, and corporate learning.
 
-### 🎓 Corporate Open Courses | 企业公开课
+- Brand Strategy & Marketing
+- Consumer Insights & Business Analytics
+- Business Research & Consulting
+- Corporate Open Courses & Case Studies
 
-- **[P&G | 宝洁](https://www.pg.com/)**
-  - Brand management, consumer understanding, and marketing fundamentals.
-- **[Tencent | 腾讯](https://www.tencent.com/)**
-  - Digital products, technology, business ecosystems, and innovation.
+## 🎨 02. Design & Art 
 
-### 🔍 Business Case Studies | 企业商业案例
+A collection of visual works, creative experiments, and design explorations.
 
-- Brand strategy and marketing campaigns
-- Product innovation and growth strategies
-- Digital transformation and AI applications
+- Graphic Design & Visual Identity
+- Drawing & Illustration
+- Calligraphy & Typography
+- Visual Experiments & Creative Portfolio
 
-*Notes and analyses will be based on publicly available materials, with sources credited where applicable.*
+## ✍️ 03. Writing & Media 
 
----
+A space for ideas, observations, storytelling, and audiovisual expression.
 
-## 🧪 03. Independent Experiments | 个人实践
+- Essays & Personal Writing
+- Cultural and Business Observations
+- Video Projects & Scripts
+- Content Creation & Visual Storytelling
 
-Exploring practical applications of data, technology, and AI beyond the classroom.
+## 🌍 04. Languages & Linguistics 
 
-### 📈 Marketing Analytics
+Language notes, linguistic observations, and cross-language explorations.
 
-Data exploration, visualization, and business interpretation.
+- Cantonese | 粤语
+- English | 英语
+- French | 法语
+- German | 德语
+- Italian | 意大利语
+- Spanish | 西班牙语
+- Linguistics, Etymology & Language Comparisons
 
-### 🤖 AI for Marketing Research
+## 🧪 05. Notes & Experiments 
 
-Experiments with AI-assisted research, information synthesis, and insight generation.
+Notes and experiments that connect ideas, methods, and tools.
 
-### ⚙️ Workflow Design
-
-Building reusable workflows for research, analysis, and documentation.
-
----
-
-## 🗂️ 04. Learning Notes | 学习笔记
-
-Structured notes, practical exercises, and reusable knowledge from my learning journey.
-
-- 📣 Marketing Strategy & Consumer Behavior
-- 📊 Data Analytics & Visualization
-- 💻 Python, SQL & R
-- 🤖 AI Applications & Workflow Design
-- 📖 Books, Articles & Research Papers
-
----
-
-## 🌱 05. About This Repository | 关于这个知识库
-
-This is a living archive of my academic learning, business research, and practical experiments.
-
-For each substantial project, I aim to document:
-
-1. **Research Question** — What problem am I trying to understand?
-2. **Methodology** — How did I approach the problem?
-3. **Key Findings** — What did I discover, and what evidence supports it?
-4. **Implications & Limitations** — What can be learned, and what remains uncertain?
-5. **Deliverables & Reflection** — What did I produce, and what would I improve?
-
-Academic coursework, corporate learning, internship case studies, and independent experiments will be clearly distinguished.
-
-All materials will respect copyright, academic integrity, and confidentiality requirements.
+- Reading Notes & Research References
+- Python, SQL & Data Visualization
+- AI Applications & Workflow Design
+- Interdisciplinary Projects
 
 ---
 
-*Learning by doing. Thinking through business problems. Building one project at a time.*
+*Stay curious. Make things. Connect ideas. Keep learning.*
