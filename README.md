@@ -29,77 +29,111 @@ I'm **Chelse Yu**, also known as **一节芋头**.
 
 ---
 
-### 📖 Chelse | Marketing Intelligence Lab
-#### ✦ Marketing × Data Analytics × AI Applications
+
+# 📖 Chelse | Marketing Intelligence Lab
+
+### ✦ Marketing × Data Analytics × AI Applications
+
 - 🔎 **Explore** — Marketing research, consumer insights, and business analytics.
 - 📚 **Document** — Coursework, research projects, and practical experiments.
 - 💡 **Connect** — Consumer insights, analytical thinking, and business strategy.
-- 🤖 **Discover** — How data and AI can help us better understand and solve real-world business problems.
-
+- 🤖 **Discover** — How data and AI can help us understand and solve real-world business problems.
 
 ---
 
-## 📚 Academic Projects | 课程与学术项目
+## 📚 01. Academic Projects | 课程与学术项目
 
-A collection of projects from my undergraduate and postgraduate studies.
+A collection of coursework, research projects, and academic work from my undergraduate and postgraduate studies.
 
-### Brand Strategy & Marketing | 品牌战略与营销
+### 🎯 Brand Strategy & Marketing | 品牌战略与营销
 
-- **[Winter Hiking Sunscreen Campaign](https://github.com/YOUR-USERNAME/hku-brand-strategy-beneunder-winter-hiking)**
+- **[Winter Hiking Sunscreen Campaign](https://github.com/Chelse-YU/hku-brand-strategy-beneunder-winter-hiking)**
   - Course: Brand Strategy
   - Focus: Consumer insights, campaign strategy, digital engagement, and KPI design.
   - Status: In progress
 
-### Consumer Insights & Business Analytics | 消费者洞察与商业分析
+### 📊 Consumer Insights & Business Analytics | 消费者洞察与商业分析
 
-- **More projects coming soon**
-  - Consumer behavior
-  - Marketing analytics
-  - Data-driven decision making
+- **Projects coming soon**
+  - Consumer behavior and consumer research
+  - Marketing analytics and data visualization
+  - Data-driven decision-making
 
-### Business Research & Strategy | 商业研究与战略
+### 🧩 Business Research & Strategy | 商业研究与战略
 
-- **More projects coming soon**
-  - Industry research
-  - Business frameworks
-  - Literature reviews and case analysis
-
----
-
-## 🧪 Independent Experiments | 个人实践
-
-Exploring practical applications of data, technology, and AI.
-
-- **Marketing Analytics** — Data exploration, visualization, and business interpretation.
-- **AI for Marketing Research** — Experiments with AI-assisted research and knowledge organization.
-- **Workflow Design** — Building reusable systems for research, analysis, and documentation.
+- **Projects coming soon**
+  - Industry and market research
+  - Business frameworks and case analysis
+  - Literature reviews and strategic analysis
 
 ---
 
-## 🗂️ Learning Notes | 学习笔记
+## 🏢 02. Corporate Learning | 企业公开课与商业案例
 
-Structured notes and practical exercises from my learning journey.
+A learning archive of publicly available corporate courses, business cases, and industry insights.
 
-- Marketing Strategy & Consumer Behavior
-- Data Analytics & Visualization
-- Python, SQL & R
-- AI Applications & Workflow Design
+### 🎓 Corporate Open Courses | 企业公开课
+
+- **[P&G | 宝洁](https://www.pg.com/)**
+  - Brand management, consumer understanding, and marketing fundamentals.
+- **[Tencent | 腾讯](https://www.tencent.com/)**
+  - Digital products, technology, business ecosystems, and innovation.
+
+### 🔍 Business Case Studies | 企业商业案例
+
+- Brand strategy and marketing campaigns
+- Product innovation and growth strategies
+- Digital transformation and AI applications
+
+*Notes and analyses will be based on publicly available materials, with sources credited where applicable.*
 
 ---
 
-## 🌱 About This Repository
+## 🧪 03. Independent Experiments | 个人实践
 
-This is a living archive, not just a collection of finished assignments.
+Exploring practical applications of data, technology, and AI beyond the classroom.
 
-For each project, I aim to document:
+### 📈 Marketing Analytics
 
-1. The research question and project context
-2. The methodology and analytical process
-3. Key findings and supporting evidence
-4. Business implications and limitations
-5. Deliverables, reflections, and next steps
+Data exploration, visualization, and business interpretation.
 
-Academic work, internship case studies, and independent experiments will be clearly distinguished. Confidential information and restricted course materials will not be published.
+### 🤖 AI for Marketing Research
+
+Experiments with AI-assisted research, information synthesis, and insight generation.
+
+### ⚙️ Workflow Design
+
+Building reusable workflows for research, analysis, and documentation.
+
+---
+
+## 🗂️ 04. Learning Notes | 学习笔记
+
+Structured notes, practical exercises, and reusable knowledge from my learning journey.
+
+- 📣 Marketing Strategy & Consumer Behavior
+- 📊 Data Analytics & Visualization
+- 💻 Python, SQL & R
+- 🤖 AI Applications & Workflow Design
+- 📖 Books, Articles & Research Papers
+
+---
+
+## 🌱 05. About This Repository | 关于这个知识库
+
+This is a living archive of my academic learning, business research, and practical experiments.
+
+For each substantial project, I aim to document:
+
+1. **Research Question** — What problem am I trying to understand?
+2. **Methodology** — How did I approach the problem?
+3. **Key Findings** — What did I discover, and what evidence supports it?
+4. **Implications & Limitations** — What can be learned, and what remains uncertain?
+5. **Deliverables & Reflection** — What did I produce, and what would I improve?
+
+Academic coursework, corporate learning, internship case studies, and independent experiments will be clearly distinguished.
+
+All materials will respect copyright, academic integrity, and confidentiality requirements.
 
 ---
 
