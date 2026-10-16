@@ -29,13 +29,6 @@ I'm **Chelse Yu (余艺捷)**, also known as **一节芋头**.
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Chelse-YU&label=PROFILE+VIEWS&color=blueviolet&style=flat"
-    alt="Profile Views"
-  />
-</p>
-
 
 # Chelse | Marketing Intelligence Lab
 
