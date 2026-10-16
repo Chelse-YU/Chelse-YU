@@ -1,4 +1,4 @@
-# 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+## 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 
 I'm **Chelse Yu**, also known as **一节芋头**.
 
@@ -29,7 +29,7 @@ I'm **Chelse Yu**, also known as **一节芋头**.
 </p>
 
 
-# Chelse | Marketing Intelligence Lab
+### 💡 Chelse | Marketing Intelligence Lab
 
 **Marketing × Data Analytics × AI Applications**
 
