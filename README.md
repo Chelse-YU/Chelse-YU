@@ -1,14 +1,7 @@
-## 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"/>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
-
-I'm Jace Yang, a data science graduate student at Columbia. My career pursue is towards becoming a ["full stack data analyst"](https://towardsdatascience.com/why-i-choose-full-stack-data-analytics-as-my-career-path-d7b3986e0285) 💪.
+## 𝗛𝗶 There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"/>
 
 My GitHub info:
-
 <img src="https://github-readme-stats.vercel.app/api?username=Jace-Yang&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
-
-## Hi there 👋
 
 
 # Chelse | Marketing Intelligence Lab
