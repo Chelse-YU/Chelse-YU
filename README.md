@@ -32,11 +32,14 @@ I'm **Chelse Yu**, also known as **一节芋头**.
 
 ### 💡 Chelse | Marketing Intelligence Lab
 
-**Marketing × Data Analytics × AI Applications**
 
-- A personal knowledge hub for marketing research, business analytics, and practical AI applications.
-- This repository documents my learning journey, coursework, research projects, and practical experiments.
-- My goal is to connect consumer insights, analytical thinking, and business strategy — and gradually explore how data and AI can improve the way we understand and solve business problems.
+### ✦ Marketing × Data Analytics × AI Applications
+
+🔎 **Explore** — Marketing research, consumer insights, and business analytics.
+📚 **Document** — Coursework, research projects, and practical experiments.
+💡 **Connect** — Consumer insights, analytical thinking, and business strategy.
+🤖 **Discover** — How data and AI can help us better understand and solve real-world business problems.
+
 
 ---
 
