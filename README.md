@@ -33,11 +33,11 @@ I'm **Chelse Yu**, also known as **一节芋头**.
 
 **Marketing × Data Analytics × AI Applications**
 
-A personal knowledge hub for marketing research, business analytics, and practical AI applications.
+- A personal knowledge hub for marketing research, business analytics, and practical AI applications.
 
-I'm a Marketing master's student at the University of Hong Kong, with an academic background in marketing and business administration. This repository documents my learning journey, coursework, research projects, and practical experiments.
+- I'm a Marketing master's student at the University of Hong Kong, with an academic background in marketing and business administration. This repository documents my learning journey, coursework, research projects, and practical experiments.
 
-My goal is to connect consumer insights, analytical thinking, and business strategy — and gradually explore how data and AI can improve the way we understand and solve business problems.
+- My goal is to connect consumer insights, analytical thinking, and business strategy — and gradually explore how data and AI can improve the way we understand and solve business problems.
 
 ---
 
