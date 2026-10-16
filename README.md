@@ -4,7 +4,7 @@
 I'm **Chelse Yu (余艺捷)**, also known as **一节芋头**.
 
 - 🇭🇰 **MSc Marketing Student** at HKU Business School, The University of Hong Kong.
-- 🇨🇳 **BBA in Business Administration**, majoring in Marketing and Communications with a minor in Economics, at The Chinese University of Hong Kong, Shenzhen.
+- 🇨🇳 **BBA**, majoring in Marketing and Communications with a minor in Economics, at The Chinese University of Hong Kong, Shenzhen.
 - 🇨🇭 **Exchange Student** at HEC Lausanne, University of Lausanne, Switzerland.
 - 🔎 Interested in marketing strategy, consumer insights, business analytics, and AI applications.
 - 📨 Reach me at [yijieyuchelse@connect.hku.hk](mailto:yijieyuchelse@connect.hku.hk).
