@@ -35,7 +35,11 @@ I'm **Chelse Yu**, also known as **一节芋头**.
 
 A personal space for thinking, creating, and learning across disciplines.
 This repository documents my academic journey, creative practice, language learning, and independent explorations.
-I believe in connecting ideas across disciplines — using research to understand the world, design to express ideas, writing to make sense of experiences, and languages to discover new perspectives.
+I believe in connecting ideas across disciplines, using 
+- research to understand the world,
+- design to express ideas,
+- writing to make sense of experiences, 
+- languages to discover new perspectives.
 
 ---
 
