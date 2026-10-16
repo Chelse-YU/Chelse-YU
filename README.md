@@ -29,15 +29,6 @@ I'm **Chelse Yu (余艺捷)**, also known as **一节芋头**.
   />
 </p>
 
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Chelse-YU&theme=dracula&hide_border=true"
-    alt="Chelse's GitHub Activity Graph"
-  />
-</p>
-
-
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=Chelse-YU&label=PROFILE+VIEWS&color=blueviolet&style=flat"
