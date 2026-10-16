@@ -19,11 +19,6 @@ I'm **Chelse Yu (余艺捷)**, also known as **一节芋头**.
     alt="Chelse's GitHub Stats"
     height="165"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chelse-YU&layout=compact&theme=dracula&hide_border=true"
-    alt="Chelse's Top Languages"
-    height="165"
-  />
 </p>
 
 
